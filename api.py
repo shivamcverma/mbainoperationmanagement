@@ -46,7 +46,7 @@ def root():
 
 
 # 🔹 Full data
-@app.get("/finance_mba")
+@app.get("/mba_in_opm")
 def get_all_data():
     return {
         "data": load_data()
@@ -54,7 +54,7 @@ def get_all_data():
 
 
 # 🔹 Access ANY section by name
-@app.get("/finance_mba/{section_name}")
+@app.get("/mba_in_opm/{section_name}")
 def get_section_by_name(section_name: str):
     data = load_data()
     result = find_section(data, section_name)
