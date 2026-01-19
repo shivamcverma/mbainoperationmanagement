@@ -1167,12 +1167,38 @@
         "stats": {
           "Questions": "127.9k",
           "Discussions": "55",
-          "Active Users": "565",
+          "Active Users": "562",
           "Followers": "195000"
         },
         "questions": [
           {
-            "question_text": "How are the placement in LPU for MBA students?",
+            "question_text": "Which college is better for MBA: LPU, GLA, or Galgotias?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "GLA University",
+                "tag_url": "https://www.shiksha.com/university/gla-university-mathura-36995"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Samreen Begum",
+                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                },
+                "answer_text": "With placements exceeding 2,200 recruiters as of 2025, including Cognizant, Capgemini, Amazon, and Deloitte, LPU's MBA programs achieved placement rates above 90% across specializations of Marketing, Finance, HR, and Operations. The highest packages extended to ₹53 LPA (international), ₹12-18 LPA domestic averages, and ₹7-10 LPA medians for top performers, bolstered by specialised training in GDs, interviews, and certifications. Among 1,200+ MBA offers made in 2024-25, alumni are well-placed in MNCs; your B.Sc Agriculture background (CGPA 7.0), with a knack for numbers, puts you at a favorable position for receiving scholarships",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How are the placements for MBA at LPU?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -1190,33 +1216,7 @@
                   "name": "Samreen Begum",
                   "profile_url": "https://www.shiksha.com/userprofile/83753496"
                 },
-                "answer_text": "The MBA placement scenario of LPU is indeed good. In 2025, above 95% of students were placed with 1,129 offers—a 29% increase from the previous year. The highest package touched INR 49.4 LPA, and the top 10% received an average of INR 13.6 LPA from companies like KPMG, ICICI, and Nestlé. More than 130 students got placements above INR 10 LPA.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How does GIBS help introverted or non-marketing-oriented students crack placements?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "Gitarattan International Business School",
-                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Shalinigowda",
-                  "profile_url": "https://www.shiksha.com/userprofile/100477394"
-                },
-                "answer_text": "Honestly, GIBS is pretty good for introverts or non-marketing students because they don't force you to suddenly become outgoing. Through CPM and IRE activities, mock interviews, small presentations, and group tasks, you slowly build confidence without feeling judged. Plus, placements aren't just for marketing — there are HR, finance, analytics, operations, and research roles where quiet and detail-oriented students do really well. The mentors also guide you based on your strengths, so you learn how to present yourself better in interviews. By the time companies come, you're actually ready even if you started off shy.",
+                "answer_text": "Most in-demand recruiters from the LPU MBA Placement, with an estimate of 2,200+, were hired in 2025, including Cognizant, Capgemini, Amazon, and Deloitte over 90% placement rates across various specializations—Marketing, Finance, HR, and Operations. the highest packages worth ₹53 LPA-international, ₹12-18 LPA domestic average, and ₹7-10 LPA median for top players-are strengthened with expert training in GDs, interviews, and certification. In the previous years, MBA placements issued 1,200+ offers, with alumni employed in MNCs; your B.Sc Agriculture degree (CGPA 7.0) and financial skills provide a good chance to grab scholarshi",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "6 hours ago"
@@ -1224,25 +1224,25 @@
             ]
           },
           {
-            "question_text": "Which university offers more good specializations in MBA - LPU or Chandigarh University?",
+            "question_text": "What kind of placement support is offered for MBA students at Dayananda Sagar Business School?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+                "tag_name": "Dayananda Sagar Business School",
+                "tag_url": "https://www.shiksha.com/college/dayananda-sagar-business-school-banashankari-bangalore-28376"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "Here's a clear comparison of MBA specializations offered by Lovely Professional University (LPU) and Chandigarh University (CU) , focusing on which university gives you more/better options : 📌 Lovely Professional University (LPU) MBA: LPU offers a wide variety of MBA specializations , including both traditional and niche fields . You can choose dual specializations in many areas (two fields). Some of the specializations include: Finance, Marketing, Human Resource Management Business Analytics, International Business Information Technology, Supply Chain & Logistics Hospital & Healthcare Management, Digital Marketing Retail Management, Entrepren",
+                "answer_text": "Dayananda Sagar Business School MBA students receive placement support through Talent Connect and Skill Capital. Students can connect with recruiters and secure internships and final placements. Continuous training and industry interaction enhance employability.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "7 hours ago"
@@ -1250,25 +1250,25 @@
             ]
           },
           {
-            "question_text": "How are the MBA specializations at Chandigarh University different from those offered at LPU?",
+            "question_text": "Does the MBA fee at Dayananda Sagar Business School include hostel charges?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+                "tag_name": "Dayananda Sagar Business School",
+                "tag_url": "https://www.shiksha.com/college/dayananda-sagar-business-school-banashankari-bangalore-28376"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "Lovely Professional University (LPU) and Chandigarh University both offer MBA programs with multiple specializations , but they differ in breadth, focus areas, and structure . LPU's MBA specializations are notably wide-ranging and flexible , allowing students to choose dual specializations or even super specializations . LPU's options cover traditional areas like Finance, Marketing, Human Resource Management, International Business, and Business Analytics , as well as niche fields such as FinTech, Artificial Intelligence for Business, Digital Marketing, Retail Management, Auditing & Taxation, Hospital & Healthcare Management, and operations-",
+                "answer_text": "No, the MBA programme fee at Dayananda Sagar Business School usually does not include hostel or accommodation charges. Hostel fees, if opted for, are charged separately. Students are advised to check the latest hostel fee details with the admissions office.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "7 hours ago"
@@ -1276,25 +1276,25 @@
             ]
           },
           {
-            "question_text": "How many companies visited GIBS for the 2025 placements, and how many students were placed?",
+            "question_text": "Can the MBA fee at Dayananda Sagar Business School be paid in instalments?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Gitarattan International Business School",
-                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
+                "tag_name": "Dayananda Sagar Business School",
+                "tag_url": "https://www.shiksha.com/college/dayananda-sagar-business-school-banashankari-bangalore-28376"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Mohammed Maqsood",
-                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "In the 2025 placement season, more than 260 companies participated in the final placement activity of GIBS Business School in Bangalore across various industries including consulting, IT, BFSI, FMCG, and logistics. This vast selection of company participants also provided job opportunities in several different domains for many students who participated in the 2025 placement season. As a result of the company's significant commitment to the students, all eligible graduates of the GIBS Business School were successfully placed during the 2025 placement season and the strong level of engagement between the industry and the GIBS Business Sc",
+                "answer_text": "Yes, Dayananda Sagar Business School generally allows MBA students to pay the programme fee in instalments. The instalment structure is shared at the time of admission. This helps students plan their finances more comfortably.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "7 hours ago"
@@ -1302,67 +1302,119 @@
             ]
           },
           {
-            "question_text": "Which top companies regularly visit GIBS for campus placements and internships?",
+            "question_text": "What role does the placement committee play for MBA students at Dayananda Sagar Business School?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Gitarattan International Business School",
-                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
+                "tag_name": "Dayananda Sagar Business School",
+                "tag_url": "https://www.shiksha.com/college/dayananda-sagar-business-school-banashankari-bangalore-28376"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Yuvraj",
-                  "profile_url": "https://www.shiksha.com/userprofile/100154398"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "1.Northern Trust 2.L&T Technology services 3.Apollo Tyres 4.Gallagher 5.IVY Homes 6.Bajaj Finserv 7.Commowealth Bank 8.Policy Bazzar 9.Cafe Coffe Day 10.MedPlus",
-                "upvotes": 1,
-                "downvotes": 0,
-                "posted_time": "10 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which one will be better, a data scientist or an HR executive? I did an MBA in HR and a data Science course.",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "Data Scientist",
-                "tag_url": "/careers/data-scientist-214"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neethu Nanjan",
-                  "profile_url": "https://www.shiksha.com/userprofile/98861080"
-                },
-                "answer_text": "You have MBA in HR + Data Science course from DataMites Here are 5 simple points to help you decide: Money & Growth: Data Scientist usually gets much higher salary and faster career growth Future Demand: Data Science jobs are growing very fast (AI, ML boom), HR jobs grow slowly Your MBA in HR: Very useful! You can become special People Analytics / HR Data Analyst. best of both worlds. Interest & Enjoyment: If you love numbers, coding & analysis → choose Data Scientist If you love people, culture & employee relations → choose HR Executive Best Choice for You: Most smart option right now = Start with Data Science / People Analytics (using",
+                "answer_text": "Dayananda Sagar Business School placement committe supports MBA students throughout placement process. It coordinates with recruiters, organizes placement drives, and help students with career preparation. This structured support increases placement opportunities.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "15 hours ago"
+                "posted_time": "7 hours ago"
               }
             ]
           },
           {
-            "question_text": "I need help with selecting MBA colleges",
+            "question_text": "How does Dayananda Sagar Business School support industry exposure for MBA students?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "Dayananda Sagar Business School",
+                "tag_url": "https://www.shiksha.com/college/dayananda-sagar-business-school-banashankari-bangalore-28376"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                },
+                "answer_text": "Dayananda Sagar Business School provides industry exposure through guest lectures, corporate interactions, internships, and live projects for MBA students. These activities help students learn about current business practices. Industry exposure also improves professional readiness.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the duration of the MBA programme at Dayananda Sagar Business School?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Dayananda Sagar Business School",
+                "tag_url": "https://www.shiksha.com/college/dayananda-sagar-business-school-banashankari-bangalore-28376"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                },
+                "answer_text": "Dayananda Sagar Business School MBA programme is a full-time, two-year course designed that provides management education. It is structured across multiple terms with a balanced focus on theory and practical exposure. This will help in building strong managerial foundations.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the admission process for the MBA programme at Dayananda Sagar Business School?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Dayananda Sagar Business School",
+                "tag_url": "https://www.shiksha.com/college/dayananda-sagar-business-school-banashankari-bangalore-28376"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                },
+                "answer_text": "For admission in Dayananda Sagar Business School MBA programme, submit an online application followed by shortlisting based on academic background and entrance exam scores. Candidates are further evaluated through a micro presentation and personal interview. Final selection is made on overall merit.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "I want to pursue MBA in regular mode but looking for Direct admission in 2026 Batch",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Full Time",
+                "tag_url": "https://www.shiksha.com/tags/full-time-tdp-438"
               }
             ],
             "followers": 0,
@@ -1375,7 +1427,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "15 hours ago"
+                "posted_time": "9 hours ago"
               }
             ]
           }
@@ -1418,7 +1470,7 @@
             ],
             "question_text": "Is quality of MBA education declining?",
             "followers": 1,
-            "views": 682,
+            "views": 686,
             "author": {
               "name": "Aditi Sharma",
               "profile_url": "https://www.shiksha.com/userprofile/99146630"
